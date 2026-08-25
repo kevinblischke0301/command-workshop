@@ -1,0 +1,14 @@
+# generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# virtual environments
+.venv/
+venv/
+
+# facilitator-only reference, not for participants
+solution/
