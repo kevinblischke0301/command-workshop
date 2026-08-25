@@ -12,3 +12,6 @@ venv/
 
 # facilitator-only reference, not for participants
 solution/
+
+# OS-related files
+.DS_Store
